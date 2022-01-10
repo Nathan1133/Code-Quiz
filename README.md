@@ -4,6 +4,10 @@
 
 A quiz designed to test the knowledge of a beginner developer
 
+Collaborated with Jonathan Nickpor
+
+GitHub Username: nickporjonathan
+
 ## Deployment
 https://nathan1133.github.io/Code-Quiz/ 
 
